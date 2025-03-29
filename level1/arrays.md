@@ -88,5 +88,3 @@ Let's analyze the common operations and their typical time complexity (using Big
 ---
 
 That covers the essentials of arrays! They are efficient for access but can be slow for insertions and deletions in the middle. Dynamic arrays help with resizing but still have the same insertion/deletion complexity internally.
-
-**Do you feel clear about arrays, their operations, complexities, and trade-offs? Any questions before we proceed to the quiz?**

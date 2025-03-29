@@ -107,5 +107,3 @@ The three main notations are:
 ---
 
 Okay, that covers the fundamentals of algorithms and complexity analysis. We've discussed what algorithms are, why we analyze them, and how we use Asymptotic Notation (especially Big O) to describe their time and space efficiency.
-
-**Do you feel you understand these concepts? Do you have any questions about algorithms, Big O, time complexity, or space complexity?** Don't hesitate to ask anything that's unclear!
