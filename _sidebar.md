@@ -1,7 +1,1 @@
 - [Home](README)
-- [Level 1](level1)
-  [**Introduction to Algorithms & Complexity:**](level1/intro_to_algorithms_and_complexity.md)
-  [**Arrays:**](level1/arrays.md)
-  [**Linked Lists:**](level1/linked_lists.md)
-  [**Stacks:**](level1/stacks.md)
-  [**Queues:**](level1/queues.md)
