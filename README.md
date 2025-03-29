@@ -1,31 +1,47 @@
-# Docsify Template
+# Data Structures and Algorithms
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+DSA by Gemini Pro
 
-## Site Setup
+## Level 1 Beginner
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+- **Level 1 (Beginner):** 5 Foundational Topics
 
-### GitHub Pages
+  1. [**Introduction to Algorithms & Complexity:**](level1/intro_to_algorithms_and_complexity.md)
 
-#### Hosting Site
+     - What is an algorithm?
+     - Why analyze algorithms?
+     - Asymptotic Notation (Big O, Big Omega, Big Theta) - understanding how we measure efficiency.
+     - Time Complexity & Space Complexity.
 
-To host this template on GitHub Pages do the following:  
+  2. [**Arrays:**](level1/arrays.md)
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+     - What are arrays? (Static vs. Dynamic)
+     - Basic operations: Access, Insertion, Deletion, Search.
+     - Time and space complexity of array operations.
+     - Common use cases and limitations.
 
-#### Editing Content
+  3. [**Linked Lists:**](level1/linked_lists.md)
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+     - What are linked lists? (Singly, Doubly, Circular)
+     - Nodes and pointers/references.
+     - Basic operations: Insertion (at head, tail, middle), Deletion, Search, Traversal.
+     - Time and space complexity compared to arrays.
+     - Advantages and disadvantages.
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
+  4. [**Stacks:**](level1/stacks.md)
 
-## Docsify Documentation
+     - What is a stack? (LIFO - Last-In, First-Out principle)
+     - Core operations: Push, Pop, Peek (or Top).
+     - Implementation using arrays and linked lists.
+     - Time and space complexity.
+     - Common applications (function calls, expression evaluation, backtracking).
 
-To learn more about using Docsify, visit https://docsify.js.org.
+  5. [**Queues:**](level1/queues.md)
+     - What is a queue? (FIFO - First-In, First-Out principle)
+     - Core operations: Enqueue, Dequeue, Peek (or Front).
+     - Implementation using arrays (including circular arrays) and linked lists.
+     - Time and space complexity.
+     - Common applications (request processing, breadth-first search, scheduling).
+
+- **Level 2 (Intermediate):** 6 Intermediate Topics
+- **Level 3 (Advanced):** 7 Advanced Topics
